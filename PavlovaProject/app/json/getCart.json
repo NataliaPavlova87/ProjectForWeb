@@ -1,0 +1,24 @@
+{
+  "amount": 153,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 1,
+      "product_name": "BLAZE LEGGINGS",
+      "price": 73,
+      "quantity": 1,
+      "color": "black",
+      "size": "M",
+      "img": "images/women_coll_01.jpg"
+    },
+    {
+      "id_product": 2,
+      "product_name": "ALEXA SWEATER",
+      "price": 80,
+      "quantity": 1,
+      "color": "coral",
+      "size": "S",
+      "img": "images/women_coll_02.jpg"
+    }
+  ]
+}
